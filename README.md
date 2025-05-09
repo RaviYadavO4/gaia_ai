@@ -113,18 +113,18 @@ lib/
 
 | 🏠 Login Screen                      | 🏠 Signup Screen                   |
 |--------------------------------------|------------------------------------|
-| <img src="screenshots/login_screen.jpeg" alt="Login Screen" style="width: 250px; height: 250px; object-fit: cover;"> | <img src="screenshots/signup_screen.jpeg" alt="Signup Screen" style="width: 250px; height: 250px; object-fit: cover;"> |
+| ![Login Screen](screenshots/login_screen.jpeg) | ![Signup Screen](screenshots/signup_screen.jpeg) |
 | **Login Screen**                     | **Signup Screen**                 |
 
 | 🏠 Forgot Password Screen            | 🏠 Record Vision Screen            |
 |--------------------------------------|------------------------------------|
-| <img src="screenshots/forgot_password_screen.jpeg" alt="Forgot Password Screen" style="width: 250px; height: 250px; object-fit: cover;"> | <img src="screenshots/record_vision_screen.jpeg" alt="Record Vision Screen" style="width: 250px; height: 250px; object-fit: cover;"> |
+| ![Forgot Password Screen](screenshots/forgot_password_screen.jpeg) | ![Record Vision Screen](screenshots/record_vision_screen.jpeg) |
 | **Forgot Password Screen**           | **Record Vision Screen**          |
 
 | 🔍 Chat Functionality                | 📄 Profile View                   |
 |--------------------------------------|------------------------------------|
-| <img src="screenshots/chat_room_screen.jpeg" alt="Chat Room Screen" style="width: 250px; height: 250px; object-fit: cover;"> | <img src="screenshots/profile_screen.jpeg" alt="Profile Screen" style="width: 250px; height: 250px; object-fit: cover;"> |
-| <img src="screenshots/chat_screen.jpeg" alt="Chat Screen" style="width: 250px; height: 250px; object-fit: cover;"> | **Profile View**                  |
+| ![Chat Room Screen](screenshots/chat_room_screen.jpeg) | ![Profile Screen](screenshots/profile_screen.jpeg) |
+| ![Chat Screen](screenshots/chat_screen.jpeg) | **Profile View**                  |
 | **Chat Functionality**               |                                    |
 
 
