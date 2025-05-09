@@ -124,7 +124,8 @@ lib/
 | 🔍 Chat Functionality                | 📄 Profile View                   |
 |--------------------------------------|------------------------------------|
 | ![Chat Room Screen](screenshots/chat_room_screen.jpeg) | ![Profile Screen](screenshots/profile_screen.jpeg) |
-| ![Chat Screen](screenshots/chat_screen.jpeg) | **Profile View**                  |
+| **Profile View**                  |
+| ![Chat Screen](screenshots/chat_screen.jpeg) 
 | **Chat Functionality**               |                                    |
 
 
