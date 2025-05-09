@@ -111,24 +111,21 @@ lib/
 
 ## 📸 Screenshots
 
-### 🏠 Login Screen
-![Login Screen](screenshots/login_screen.jpeg)
+| 🏠 Login Screen                      | 🏠 Signup Screen                   |
+|--------------------------------------|------------------------------------|
+| ![Login Screen](screenshots/login_screen.jpeg) | ![Signup Screen](screenshots/signup_screen.jpeg) |
+| **Login Screen**                     | **Signup Screen**                 |
 
-### 🏠 Signup Screen
-![Signup Screen](screenshots/signup_screen.jpeg)
+| 🏠 Forgot Password Screen            | 🏠 Record Vision Screen            |
+|--------------------------------------|------------------------------------|
+| ![Forgot Password Screen](screenshots/forgot_password_screen.jpeg) | ![Record Vision Screen](screenshots/record_vision_screen.jpeg) |
+| **Forgot Password Screen**           | **Record Vision Screen**          |
 
-### 🏠 Forgot Password Screen
-![Forgot Password Screen](screenshots/forgot_password_screen.jpeg)
-
-### 🏠 Record Vission Screen
-![Record Vission Screen](screenshots/record_vision_screen.jpeg)
-
-### 🔍 Chat  Functionality
-![Chat Room Screen](screenshots/chat_room_screen.jpeg)
-![Chat Screen](screenshots/chat_screen.jpeg)
-
-### 📄 Profile View
-![Profile Screen](screenshots/profile_screen.jpeg)
+| 🔍 Chat Functionality                | 📄 Profile View                   |
+|--------------------------------------|------------------------------------|
+| ![Chat Room Screen](screenshots/chat_room_screen.jpeg) | ![Profile Screen](screenshots/profile_screen.jpeg) |
+| ![Chat Screen](screenshots/chat_screen.jpeg) | **Profile View**                  |
+| **Chat Functionality**               |                                    |
 
 ## 🎥 Video Walkthrough
 
