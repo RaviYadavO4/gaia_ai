@@ -132,16 +132,27 @@ lib/
   </tr>
  
   <tr>
-    <td align="center">
-      <strong>🔍 Chat Functionality</strong><br>
-      <img src="screenshots/chat_room_screen.jpeg" width="150" height="300"/><br>
-      <img src="screenshots/chat_screen.jpeg" width="150" height="300"/>
-    </td>
-    <td align="center">
-      <strong>📄 Profile View</strong><br>
-      <img src="screenshots/profile_screen.jpeg" width="150" height="300"/>
-    </td>
-  </tr>
+  <td align="center" colspan="2">
+    <strong>🔍 Chat Functionality</strong><br>
+    <table>
+      <tr>
+        <td>
+          <img src="screenshots/chat_room_screen.jpeg" width="150" height="300"/>
+        </td>
+        <td>
+          <img src="screenshots/chat_screen.jpeg" width="150" height="300"/>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<tr>
+  <td align="center" colspan="2">
+    <strong>📄 Profile View</strong><br>
+    <img src="screenshots/profile_screen.jpeg" width="150" height="300"/>
+  </td>
+</tr>
+
 </table>
 
 
