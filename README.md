@@ -155,7 +155,7 @@ lib/
 Watch the video walkthrough for a detailed overview of the app:
 
 <a href="https://youtube.com/shorts/_a_LWpaCfuQ" target="_blank">
-  <img src="https://img.youtube.com/vi/_a_LWpaCfuQ/maxresdefault.jpg" width="300" height="170" alt="Watch the video"/>
+  <img src="https://img.youtube.com/vi/_a_LWpaCfuQ/maxresdefault.jpg" width="500" height="220" alt="Watch the video"/>
 </a>
 
 ## 📌 Author
