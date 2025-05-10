@@ -121,9 +121,7 @@ lib/
       <strong>🏠 Signup Screen</strong><br>
       <img src="screenshots/signup_screen.jpeg" width="150" height="300"/>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+     <td align="center">
       <strong>🏠 Forgot Password Screen</strong><br>
       <img src="screenshots/forgot_password_screen.jpeg" width="150" height="300"/>
     </td>
@@ -132,6 +130,7 @@ lib/
       <img src="screenshots/record_vision_screen.jpeg" width="150" height="300"/>
     </td>
   </tr>
+ 
   <tr>
     <td align="center">
       <strong>🔍 Chat Functionality</strong><br>
