@@ -113,23 +113,24 @@ lib/
 
 <table>
   <tr>
-    <td align="center">
-      <strong>🏠 Login Screen</strong><br>
-      <img src="screenshots/login_screen.jpeg" width="150" height="300"/>
-    </td>
-    <td align="center">
-      <strong>🏠 Signup Screen</strong><br>
-      <img src="screenshots/signup_screen.jpeg" width="150" height="300"/>
-    </td>
-     <td align="center">
-      <strong>🏠 Forgot Password Screen</strong><br>
-      <img src="screenshots/forgot_password_screen.jpeg" width="150" height="300"/>
-    </td>
-    <td align="center">
-      <strong>🏠 Record Vision Screen</strong><br>
-      <img src="screenshots/record_vision_screen.jpeg" width="150" height="300"/>
-    </td>
-  </tr>
+  <td align="center">
+    <strong>🏠 Login Screen</strong><br>
+    <img src="screenshots/login_screen.jpeg" width="150" height="300"/>
+  </td>
+  <td align="center">
+    <strong>🏠 Signup Screen</strong><br>
+    <img src="screenshots/signup_screen.jpeg" width="150" height="300"/>
+  </td>
+  <td align="center">
+    <strong>🔐 Forgot Password Screen</strong><br>
+    <img src="screenshots/forgot_password_screen.jpeg" width="150" height="300"/>
+  </td>
+  <td align="center">
+    <strong>📹 Record Vision Screen</strong><br>
+    <img src="screenshots/record_vision_screen.jpeg" width="150" height="300"/>
+  </td>
+</tr>
+
  
   <tr>
   <td align="center">
