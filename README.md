@@ -111,21 +111,39 @@ lib/
 
 ## 📸 Screenshots
 
-| 🏠 Login Screen                      | 🏠 Signup Screen                   |
-|--------------------------------------|------------------------------------|
-| ![Login Screen](screenshots/login_screen.jpeg) | ![Signup Screen](screenshots/signup_screen.jpeg) |
-| **Login Screen**                     | **Signup Screen**                 |
-
-| 🏠 Forgot Password Screen            | 🏠 Record Vision Screen            |
-|--------------------------------------|------------------------------------|
-| ![Forgot Password Screen](screenshots/forgot_password_screen.jpeg) | ![Record Vision Screen](screenshots/record_vision_screen.jpeg) |
-| **Forgot Password Screen**           | **Record Vision Screen**          |
-
-| 🔍 Chat Functionality                | 📄 Profile View                   |
-|--------------------------------------|------------------------------------|
-| ![Chat Room Screen](screenshots/chat_room_screen.jpeg) | ![Profile Screen](screenshots/profile_screen.jpeg) |
-| ![Chat Screen](screenshots/chat_screen.jpeg) | **Profile View**                  |
-| **Chat Functionality**               |                                    |
+<table>
+  <tr>
+    <td align="center">
+      <strong>🏠 Login Screen</strong><br>
+      <img src="screenshots/login_screen.jpeg" width="150" height="300"/>
+    </td>
+    <td align="center">
+      <strong>🏠 Signup Screen</strong><br>
+      <img src="screenshots/signup_screen.jpeg" width="150" height="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>🏠 Forgot Password Screen</strong><br>
+      <img src="screenshots/forgot_password_screen.jpeg" width="150" height="300"/>
+    </td>
+    <td align="center">
+      <strong>🏠 Record Vision Screen</strong><br>
+      <img src="screenshots/record_vision_screen.jpeg" width="150" height="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>🔍 Chat Functionality</strong><br>
+      <img src="screenshots/chat_room_screen.jpeg" width="150" height="300"/><br>
+      <img src="screenshots/chat_screen.jpeg" width="150" height="300"/>
+    </td>
+    <td align="center">
+      <strong>📄 Profile View</strong><br>
+      <img src="screenshots/profile_screen.jpeg" width="150" height="300"/>
+    </td>
+  </tr>
+</table>
 
 
 ## 🎥 Video Walkthrough
