@@ -145,16 +145,13 @@ lib/
       </tr>
     </table>
   </td>
+</tr>
+<tr>
   <td align="center" colspan="2">
     <strong>📄 Profile View</strong><br>
-    <table>
-      <tr>
-        <td>
-          <img src="screenshots/profile_screen.jpeg" width="150" height="300"/>
-        </td>
+    <img src="screenshots/profile_screen.jpeg" width="150" height="300"/>
   </td>
 </tr>
-
 
 </table>
 
