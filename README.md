@@ -145,8 +145,6 @@ lib/
       </tr>
     </table>
   </td>
-
-
   <td align="center" colspan="2">
     <strong>📄 Profile View</strong><br>
     <table>
@@ -154,9 +152,6 @@ lib/
         <td>
           <img src="screenshots/profile_screen.jpeg" width="150" height="300"/>
         </td>
-      
-      </tr>
-    </table>
   </td>
 </tr>
 
